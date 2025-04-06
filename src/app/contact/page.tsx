@@ -46,7 +46,7 @@ export default function Contact() {
             <h2 className="text-xl font-semibold text-green-600 mb-2">
               Message Sent!
             </h2>
-            <p>Thank you for reaching out. I'll get back to you soon.</p>
+            <p>Thank you for reaching out. I&apos;ll get back to you soon.</p>
             <Button className="mt-4" onClick={() => setIsSubmitted(false)}>
               Send Another Message
             </Button>

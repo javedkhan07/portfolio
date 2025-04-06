@@ -7,7 +7,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-[80vh]">
       <div className="profile-circle">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202023-08-13%20at%2015.12.49-VkfrFKHs6gmYIn0NMztkVJ1iY3lfxW.jpeg"
+          src="/image/profile.jpeg"
           alt="Javed Khan"
           width={200}
           height={200}
@@ -31,9 +31,9 @@ export default function Home() {
         </div>
       </div>
       <div className="mt-8 text-center max-w-md px-4">
-        <h1 className="text-3xl font-bold mb-4">Hello, I'm Javed Khan</h1>
+        <h1 className="text-3xl font-bold mb-4">Hello, I&apos;m Javed Khan</h1>
         <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-          I'm a Fullstack Developer passionate about building beautiful and
+          I&apos;m a Fullstack Developer passionate about building beautiful and
           functional web applications.
         </p>
 

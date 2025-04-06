@@ -4,23 +4,18 @@ import Link from "next/link";
 export default function Projects() {
   const projects = [
     {
-      title: "Project One",
-      description: "A web application built with React and Node.js",
-      image: "/placeholder.svg",
+      title: "Portfolio",
+      description: "A web application built with Next.js,Typescript,Tailwind CSS and Node.js",
+      image: "/image/project1.png",
       link: "#",
     },
     {
-      title: "Project Two",
-      description: "A mobile app developed with React Native",
-      image: "/placeholder.svg",
+      title: "MATOME-AI",
+      description: "Matome is a AI based web app that generate PDFs to summarize the content of the website",
+      image: "/image/project2.png",
       link: "#",
-    },
-    {
-      title: "Project Three",
-      description: "An e-commerce platform with payment integration",
-      image: "/placeholder.svg",
-      link: "#",
-    },
+    }
+    
   ];
 
   return (

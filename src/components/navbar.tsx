@@ -2,12 +2,10 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ModeToggle } from "@/app/components/mode-toggle";
-import { useTheme } from "@/app/components/theme-provider";
+import ModeToggle from "@/components/mode-toggle";
 
 export default function Navbar() {
-  const pathname = usePathname();
-  const { theme } = useTheme();
+  const pathname = usePathname()
 
   const navItems = [
     { name: "Home", path: "/" },
