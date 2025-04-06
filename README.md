@@ -57,3 +57,5 @@ git clone https://github.com/javedkhan07/portfolio.git
 cd portfolio
 
 ```
+Deploy on Vercel
+https://portfolio-hazel-two-58.vercel.app/ 
