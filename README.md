@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+https://portfolio-hazel-two-58.vercel.app/ 
+![image](https://github.com/user-attachments/assets/8eefecd0-cfdd-4d20-acc1-ef8670df9a55)
+
 
 ## Getting Started
 
